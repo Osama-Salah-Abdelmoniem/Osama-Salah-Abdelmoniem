@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨🏻‍💻 About Me:
-- 🙋‍♂️ All about me is at **[My Website](https://master--osamasalahportfolio.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://osamasalahportfolio.netlify.app/)**
 - 🌱 I’m currently learning `MERN Stack`
 - 💬 Ask me about anything
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
