@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Osama Salah</h1>
+<h1 align="center">Hi, I'm Osama Salah</h1>
 
 <!--
 **Osama-Salah-Abdelmoniem/Osama-Salah-Abdelmoniem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
